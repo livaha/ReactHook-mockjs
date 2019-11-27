@@ -1,11 +1,11 @@
-# React Hook demo + modejs 数据模拟
-最近练习react hook的使用，同时想做数据交互，因为没有后台接口，因此想通过模拟数据实现交互；之前使用jsonp但需要手动启用模拟服务器； 本次模拟数据使用modejs，不需要用它随机生成的模拟数据，简单粗暴的把想要的实际数据写上即可。
+# React Hook demo + mockjs 数据模拟
+最近练习react hook的使用，同时想做数据交互，因为没有后台接口，因此想通过模拟数据实现交互；之前使用jsonp但需要手动启用模拟服务器； 本次模拟数据使用mockjs，不需要用它随机生成的模拟数据，简单粗暴的把想要的实际数据写上即可。
 
 
 ## 版本介绍
 ```
 react使用16.8以上版本(为支持react hook)
-下载modejs  (yarn add modejs)
+下载mockjs  (yarn add mockjs)
 ```
 ## 项目启动
 ```
